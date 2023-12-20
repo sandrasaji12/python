@@ -1,0 +1,5 @@
+c=input("Enter colors seperated by commas:")
+c1=c.split(",")
+print(c1)
+print("first color:",c1[0])
+print("last color:",c1[-1])
